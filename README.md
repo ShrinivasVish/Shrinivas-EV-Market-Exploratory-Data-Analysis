@@ -81,22 +81,34 @@ All the records were groupred by their `Models` and the np.nan values (missing v
 ### Electric Vehicle Range vs Price
 **Figure 6.2.1**
 
-<img src="./images/plot_6_2_1.png">
+<img src="./images/plot_6_2_1.png"><br />
+
+- _**Business Problem:**_ Understand the pricing strategy relative to vehicle range to optimize value propositions.
+- _**Objective:**_ Identify models with the best range-to-price ratio to target budget-conscious customers effectively.
 
 ### Average Efficincy by Brand
 **Figure 6.2.2**
 
-<img src="./images/plot_6_2_2.png">
+<img src="./images/plot_6_2_2.png"><br />
+
+- _**Business Problem:**_ Assess how different brands fare in terms of efficiency.
+- _**Objective:**_ Highlight competitive advantages and gaps in efficiency to guide marketing and product improvement efforts.
 
 ### Price Distribution by Brand
 **Figure 6.2.3**
 
-<img src="./images/plot_6_2_3.png">
+<img src="./images/plot_6_2_3.png"><br />
+
+- _**Business Problem:**_ Analyze pricing strategies across brands to position offerings effectively in the market.
+- _**Objective:**_ Identify outliers and assess brand competitiveness in various price segments.
 
 ### EV Market Share by Brand
 **Figure 6.2.4**
 
-<img src="./images/plot_6_2_4.png">
+<img src="./images/plot_6_2_4.png"><br />
+
+- _**Business Problem:**_ Measure brand dominance and identify market leaders.
+- _**Objective:**_ Focus resources on competitive strategies or alliances for brands with lower shares.
 
 ### Range, Price and Efficiency by Brand and Manufacturing Location
 **Figure 7.1.1**
@@ -109,7 +121,10 @@ All the records were groupred by their `Models` and the np.nan values (missing v
 
 **Figure 7.1.3**
 
-<img src="./images/plot_7_1_3.png">
+<img src="./images/plot_7_1_3.png"><br />
+
+- _**Business Problem:**_ Explore the impact of manufacturing location on performance metrics like range, price, and efficiency.
+- _**Objective:**_ Identify strategic locations that maximize production efficiency and customer satisfaction.
 
 ### Distribution of Price Categories Across Brands
 
@@ -119,19 +134,28 @@ All the records were groupred by their `Models` and the np.nan values (missing v
 
 **Figure 7.2.2**
 
-<img src="./images/plot_7_2_2.png">
+<img src="./images/plot_7_2_2.png"><br />
+
+- _**Business Problem:**_ Understand brand positioning within budget, mid-range, and luxury segments.
+- _**Objective:**_ Align product development and marketing strategies with customer preferences in each category.
 
 ### Top EV Brands By Value Score
 
 **Figure 7.3.1**
 
-<img src="./images/plot_7_3_1.png">
+<img src="./images/plot_7_3_1.png"><br />
+
+- _**Business Problem:**_ Highlight high-performing models to focus marketing and sales strategies.
+- _**Objective:**_ Optimize inventory and promotion for models with the highest perceived value.
 
 ### Distribution of Efficiency Scores by Brands
 
 **Figure 7.4.1**
 
-<img src="./images/plot_7_4_1.png">
+<img src="./images/plot_7_4_1.png"><br />
+
+- _**Business Problem:**_ Gauge the efficiency distribution within brand portfolios.
+- _**Objective:**_ Guide product development to enhance the share of high-efficiency vehicles.
 
 ### Average Efficiency Score, Value Score and Sales by Brand
 
@@ -145,7 +169,9 @@ All the records were groupred by their `Models` and the np.nan values (missing v
 
 **Figure 7.5.3**
 
-<img src="./images/plot_7_5_3.png">
+<img src="./images/plot_7_5_3.png"><br />
+- _**Business Problem:**_ Track market evolution over time and identify seasonal trends.
+- _**Objective:**_ Plan product launches and promotional campaigns to align with demand peaks.
 
 ## Key Findings and Insights
 
